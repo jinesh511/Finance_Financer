@@ -4,7 +4,7 @@
 
 - [General info](#general-info)
 - [Technologies](#technologies)
-- [Easy Tips to use(#Easy tips to use)
+- [Easy Tips to use](#Easy tips to use)
 
 ## General info
  Finance Financer is the easy and quick way too share and track expenses with friends,colleagues and family.
