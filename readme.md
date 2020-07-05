@@ -26,3 +26,6 @@ Project is created with:
  2. Add Persons
  3. Add Expense
  4. Share Bill
+
+## Developed By
+Jinesh
